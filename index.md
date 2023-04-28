@@ -5,8 +5,7 @@
 ### Optimization
 
 [Portfolio Optimization using Efficient Frontier Method in Python ](/sample_page)
-<img src="images/1a.jpg?raw=true"/>
-<img src="images/1b.jpg?raw=true"/>
+•	Implemented a Mean-Variance Optimization technique to maximize return for given risk and identify the allocation of assets that maximizes the Sharpe Ratio and minimizes volatility, resulting in potentially higher returns for users.
 <img src="images/1C.jpg?raw=true"/>
 
 ---
