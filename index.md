@@ -34,6 +34,7 @@ This is a book recommender system that utilizes collaborative filtering to recom
 **Key skills:** Python programming, optimization, statistical analysis, financial mathematics 
 
 Implemented a Mean-Variance Optimization technique to maximize return for given risk and identify the allocation of assets that maximizes the Sharpe Ratio and minimizes volatility, resulting in potentially higher returns for users.
+
 <img src="images/1C.jpg?raw=true"/>
 ---
 [Time series forecasting of stock prices using FBProphet ](https://github.com/ShubhanKamat/Forecasting_Using_FBProphet)
