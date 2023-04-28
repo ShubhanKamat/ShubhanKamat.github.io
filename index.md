@@ -1,22 +1,21 @@
 ## Project Portfolio
 
 ---
+[Spam Classification using NLP and Gradient Boosting ](https://shubhankamat-spam-classifier-app-3auary.streamlit.app/)
 
-[Portfolio Optimization using Efficient Frontier Method in Python ](https://shubhankamat-efficientfrontieroptimisation-app-it39lm.streamlit.app/)
+**Relevant Domain(s)**: E-commerce, Finance, Telecommunications, Social media, Healthcare
+**Key skills**: NLP, Text Classification, Gradient Boosting, Feature Engineering, Hyperparameter tuning
+**Frameowrk Used**: NLTK, LightGBM
 
-**Domain(s):** Financial data science, risk analytics
-
-**Key skills:** Python programming, optimization, statistical analysis, financial mathematics 
-
-•	Implemented a Mean-Variance Optimization technique to maximize return for given risk and identify the allocation of assets that maximizes the Sharpe Ratio and minimizes volatility, resulting in potentially higher returns for users.
 <img src="images/1C.jpg?raw=true"/>
 
+
 ---
-[Spam Classification using NLP and Ensemble learning ](https://shubhankamat-efficientfrontieroptimisation-app-it39lm.streamlit.app/)
+[Portfolio Optimization using Efficient Frontier Method in Python ](https://shubhankamat-efficientfrontieroptimisation-app-it39lm.streamlit.app/)
 
-Domain(s): Financial data science, risk analytics
+**Relevant Domain(s):** Financial data science, risk analytics
 
-Key skills: Python programming, optimization, statistical analysis, financial mathematics 
+**Key skills:** Python programming, optimization, statistical analysis, financial mathematics 
 
 •	Implemented a Mean-Variance Optimization technique to maximize return for given risk and identify the allocation of assets that maximizes the Sharpe Ratio and minimizes volatility, resulting in potentially higher returns for users.
 <img src="images/1C.jpg?raw=true"/>
