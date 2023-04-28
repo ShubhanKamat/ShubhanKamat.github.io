@@ -4,17 +4,22 @@
 
 [Portfolio Optimization using Efficient Frontier Method in Python ](https://shubhankamat-efficientfrontieroptimisation-app-it39lm.streamlit.app/)
 
+**Domain(s):** Financial data science, risk analytics
+
+**Key skills:** Python programming, optimization, statistical analysis, financial mathematics 
+
+•	Implemented a Mean-Variance Optimization technique to maximize return for given risk and identify the allocation of assets that maximizes the Sharpe Ratio and minimizes volatility, resulting in potentially higher returns for users.
+<img src="images/1C.jpg?raw=true"/>
+
+---
+[Spam Classification using NLP and Ensemble learning ](https://shubhankamat-efficientfrontieroptimisation-app-it39lm.streamlit.app/)
+
 Domain(s): Financial data science, risk analytics
 
 Key skills: Python programming, optimization, statistical analysis, financial mathematics 
 
 •	Implemented a Mean-Variance Optimization technique to maximize return for given risk and identify the allocation of assets that maximizes the Sharpe Ratio and minimizes volatility, resulting in potentially higher returns for users.
 <img src="images/1C.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
