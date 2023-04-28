@@ -24,8 +24,16 @@ The Spam Classification using NLP and Gradient Boosting project uses natural lan
 •	Implemented a Mean-Variance Optimization technique to maximize return for given risk and identify the allocation of assets that maximizes the Sharpe Ratio and minimizes volatility, resulting in potentially higher returns for users.
 <img src="images/1C.jpg?raw=true"/>
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Book recommendation system  ](https://shubhankamat-bookrecommender-app-3pz089.streamlit.app/)
+
+**Relevant Domain(s)**: E-commerce, Finance, Telecommunications, Social media, Healthcare
+
+**Key skills**: NLP, Text Classification, Gradient Boosting, Feature Engineering, Hyperparameter tuning, Object oriented programming
+
+**Frameowrk Used**: NLTK, LightGBM
+
+This is a book recommender system that utilizes collaborative filtering to recommend books to users. It is built using Python, pandas, scikit-learn, and Streamlit.
+<img src="images/1C.jpg?raw=true"/>
 
 ---
 
