@@ -2,8 +2,10 @@ title: Shubhan Kamat # your name (or website title) here
 logo: "/images/Shubhan Kamat Photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   MSc Data Science student at Lancaster University with an undergraduate degree in mathematics.   
-  <br><br>
-  <a href="https://www.linkedin.com/in/shubhankamat/>View My LinkedIn Profile</a> 
+  
+  <a href="https://www.linkedin.com/in/shubhankamat/>View My LinkedIn Profile</a>
+  
+  <a href="https://www.linkedin.com/in/shubhankamat/>View My Resume</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
