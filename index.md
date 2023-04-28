@@ -1,11 +1,13 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Category Name 1 
+### Optimization
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Portfolio Optimization using Efficient Frontier Method in Python ](/sample_page)
+<img src="images/1a.jpg?raw=true"/>
+<img src="images/1b.jpg?raw=true"/>
+<img src="images/1C.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
